@@ -5,5 +5,4 @@ const getPeopleInCity = function (peopleList) {
   return getFirstNames(peopleList);
 };
 console.log(getPeopleInCity);
-
 module.exports = getPeopleInCity;
